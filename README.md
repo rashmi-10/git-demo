@@ -1,10 +1,10 @@
-#Demo Repo
+# Demo Repo
 
 
 
 this is the first file in repo
 
-##website contents
+## website contents
 
 1.index.html
 jbjhdskh
